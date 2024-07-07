@@ -1,23 +1,23 @@
-<h3 align="center" font-weight="bold">HealthHub: Hospital Management System </h3>
-<h3 align="center" font-weight="bold">Overview: </h3>
+<h2 align="center" font-weight="bold">HealthHub: Hospital Management System </h2>
+<h3 align="left" font-weight="bold">Overview: </h3>
 HealthHub is a comprehensive full-stack web application designed to streamline hospital operations, enhance patient care, and provide secure access to healthcare resources. It features robust functionalities for appointment management, secure messaging, authentication and authorization, error handling, and an admin dashboard. 
-<h3 align="center" font-weight="bold">Features: </h3>
-<h3 align="center" font-weight="bold">Appointment Management:</h3> Schedule, update, and manage patient appointments with conflict checks and real-time scheduling. 
-<h3 align="center" font-weight="bold">Secure Messaging: </h3> Facilitate clear and secure communication between patients and staff. 
-<h3 align="center" font-weight="bold">Authentication and Authorization: </h3> Secure login and role-based access control using JSON Web Tokens (JWT) and bcryptjs. 
-<h3 align="center" font-weight="bold">Admin Dashboard:</h3> User-friendly interface for administrators to manage appointments, view messages, and oversee hospital operations. 
-<h3 align="center" font-weight="bold">Comprehensive Error Handling:</h3> Consistent and informative error management with custom middleware. 
-<h3 align="center" font-weight="bold">Objectives:</h3>
+<h3 align="left" font-weight="bold">Features: </h3>
+<h3 align="left" font-weight="bold">Appointment Management:</h3> Schedule, update, and manage patient appointments with conflict checks and real-time scheduling. 
+<h3 align="left" font-weight="bold">Secure Messaging: </h3> Facilitate clear and secure communication between patients and staff. 
+<h3 align="left" font-weight="bold">Authentication and Authorization: </h3> Secure login and role-based access control using JSON Web Tokens (JWT) and bcryptjs. 
+<h3 align="left" font-weight="bold">Admin Dashboard:</h3> User-friendly interface for administrators to manage appointments, view messages, and oversee hospital operations. 
+<h3 align="left" font-weight="bold">Comprehensive Error Handling:</h3> Consistent and informative error management with custom middleware. 
+<h3 align="left" font-weight="bold">Objectives:</h3>
 Streamline hospital workflows Improve patient care Ensure secure access to hospital resources Enhance overall efficiency and user experience 
-<h3 align="center" font-weight="bold">Technologies used : </h3>
+<h3 align="left" font-weight="bold">Technologies used : </h3>
 Frontend: React, Backend: Node.js, Express.js, Database: MongoDB, Mongoose, Authentication: JSON Web Tokens (JWT), bcryptjs, Validation: Validator, Error Handling: Custom Middleware. Installation Clone the repository and navigate to the project directory. Install dependencies. Set up environment variables by creating a .env file in the root directory and adding necessary configurations. Start the application. Access the application locally via the configured port. Usage Admin Dashboard: Log in as an admin to manage appointments, view messages, and oversee hospital operations. 
-<h3 align="center" font-weight="bold">Appointment Management:</h3> Schedule, update, and manage patient appointments with real-time conflict checks. 
-<h3 align="center" font-weight="bold">Messaging:</h3> Communicate securely between patients and staff.
-<h3 align="center" font-weight="bold">Authentication:</h3> Log in securely with JWT-based authentication and role-based access control.
+<h3 align="left" font-weight="bold">Appointment Management:</h3> Schedule, update, and manage patient appointments with real-time conflict checks. 
+<h3 align="left" font-weight="bold">Messaging:</h3> Communicate securely between patients and staff.
+<h3 align="left" font-weight="bold">Authentication:</h3> Log in securely with JWT-based authentication and role-based access control.
 
 <p align="left">
 </p>
-<h3 align="center" font-weight="bold">Checkout HealthHub here: </h3>
+<h3 align="left" font-weight="bold">Checkout HealthHub here: </h3>
 <a href="https://healthhub-hospital-management-system.netlify.app/" target="_blank">https://healthhub-hospital-management-system.netlify.app</a>
 
 <h3 align="left">Languages and Tools:</h3>
